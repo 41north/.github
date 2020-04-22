@@ -17,7 +17,7 @@ Before creating bug reports, please check the [before-submitting-a-bug-report](#
 
 #### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as [Github issues](https://github.com/41North/exflo/issues).
+Bugs are tracked as Github issues.
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -46,7 +46,7 @@ Include details about your configuration and environment:
 
 ## Submitting changes
 
-We accept contributions via regular Pull Requests (PRs) on [Github](https://github.com/41North/exflo). Below there's a list of rules to follow whenever you want to send a PR:
+We accept contributions via regular Pull Requests (PRs) on Github. Below there's a list of rules to follow whenever you want to send a PR:
 
 - **Create feature branches**: It's important to be concise with your commits, so don't ask us to pull from your master branch.
 - **Add tests if applicable**: Your patch probably won't be accepted if it doesn't have tests (but will depend on the situation).
