@@ -13,7 +13,7 @@ Before creating bug reports, please check the [before-submitting-a-bug-report](#
 #### Before Submitting A Bug Report
 
 - **Confirm the problem** is reproducible in the latest version of the software.
-- **Perform a [cursory search of project issues](https://github.com/41North/exflo/issues)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- **Perform a cursory search of project issues** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
 
